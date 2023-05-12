@@ -1,0 +1,26 @@
+{
+  "name": "clonedrepo",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev":"node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Puneet56/git-session.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Puneet56/git-session/issues"
+  },
+  "homepage": "https://github.com/Puneet56/git-session#readme",
+  "dependencies": {
+    "@types/node": "^20.1.3",
+    "typescript": "^5.0.4"
+  }
+}

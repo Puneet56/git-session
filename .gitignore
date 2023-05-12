@@ -1,0 +1,12 @@
+node_modules
+
+.idea
+.vscode
+
+build
+
+dist
+
+target
+
+.env
