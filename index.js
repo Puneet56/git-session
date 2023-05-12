@@ -1,7 +1,7 @@
 import fs from 'fs';
 
-import { Component } from "./component";
 
+console.log("Heloo world");
 
 const files = fs.readFileSync("file.txt").toString().split("\n");
 
